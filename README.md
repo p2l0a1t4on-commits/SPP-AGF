@@ -1,1 +1,1 @@
-# SPP-AGF
+# SPP-AGF - advaced graphical framework for SPP language
